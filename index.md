@@ -1,6 +1,8 @@
 
 
 ### About Me!
+#### Background
+I am an international student from Hong Kong. I have spent two years in UK for high school and currently studying in the US. It is fun to experience two different counties!
 
 #### Education:
 
@@ -8,20 +10,39 @@
 Master of Science in Statistics, Data Science Concentration
 
 - GPA: 3.82
-- 
+- Learner of Machine Learning and Deep Learning in R and Python
+- Expected Graduation Term: Spring 2021
+- Now looking graduate job and research opportunities in the US. Now I live in California, but I am also willing to relocate!
 
 ##### The Chinese University of Hong Kong
 Bachelor of Engineering in Electronic Engineering
 
+- Studied Analog and Digital Circuit Design
+- Modern Communication and Signal Processing
+
 #### Skills
-##### Statistical Programming
+##### Statistical Programming and Visualization:
 - R
 - Python
 - Tableau
 - SAS
 - SQL
-- Markdown and LaTex
+
+##### Other Tools:
+- Markdown and LaTeX for academic writing and presentation
 - MS Office
+- Google Docs/Sheet/Presentation
+- Linux User!
+- Of Course a GitHub user too!
+
+#### Languages that I use:
+I speak and write in three languages!
+- Cantonese: This is my native language.
+- English: Fluent
+- Mandarin: Fluent
+
+### Research Interest
+I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
 
 ### Current Projects:
 
@@ -41,3 +62,7 @@ https://github.com/ckong9-stat697/STAT694_Applied_Research_in_Statistics
 
 ###### Link:
 https://github.com/stat697-s20/team-1_project_repo
+
+### Connect me!
+You can connect me on GitHub, and also on LinkedIn:
+https://www.linkedin.com/in/chunyin-kong/
