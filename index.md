@@ -52,9 +52,9 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 This project involves the use of NLP algorithms in analyzing the effect of COVID-19 on Twitter's Text.
 
 ###### Link:
-https://github.com/ckong9-stat697/STAT694_Applied_Research_in_Statistics
+[Click Here to See my Project!](https://github.com/ckong9-stat697/STAT694_Applied_Research_in_Statistics)
 
-
+[Click Here to See my Presentation!]()
 ### Past Projects:
 
 ##### STAT697 Issues in Statistics Project
