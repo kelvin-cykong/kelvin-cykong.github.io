@@ -54,15 +54,16 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 ###### Link:
 [Click Here to See my Project!](https://github.com/ckong9-stat697/STAT694_Applied_Research_in_Statistics)
 
-[Click Here to See my Presentation!]()
+[Click Here to See my Presentation!](stat694_presentation.html)
+
 ### Past Projects:
 
 ##### STAT697 Issues in Statistics Project
 ###### Introduction:
 
 ###### Link:
-https://github.com/stat697-s20/team-1_project_repo
+[Project Repo!](https://github.com/stat697-s20/team-1_project_repo)
 
 ### Connect me!
 You can connect me on GitHub, and also on LinkedIn:
-https://www.linkedin.com/in/chunyin-kong/
+[My LinkedIn Profile!](https://www.linkedin.com/in/chunyin-kong/)
