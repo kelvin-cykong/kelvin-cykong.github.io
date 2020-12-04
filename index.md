@@ -35,12 +35,6 @@ Bachelor of Engineering in Electronic Engineering
 - Linux User!
 - Of Course a GitHub user too!
 
-#### Languages that I use:
-I speak and write in three languages!
-- Cantonese: This is my native language.
-- English: Fluent
-- Mandarin: Fluent
-
 ### Research Interest
 I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
 
@@ -65,6 +59,13 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 ###### Link:
 [Project Repo!](https://github.com/stat697-s20/team-1_project_repo)
+
+### Languages that I use:
+I speak and write in three languages!
+- Cantonese: This is my native language.
+- English: Fluent
+- Mandarin: Fluent
+
 
 ### Connect me!
 You can connect me on GitHub, and also on LinkedIn:
