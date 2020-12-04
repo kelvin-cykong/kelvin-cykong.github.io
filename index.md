@@ -57,6 +57,8 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 [Click Here to See my Presentation!](stat694_presentation.html)
 
 ### Past Projects:
+##### Data Visualization Dashboard
+[FlexDashboard of Lyft BayWheel Data using R Packages](Problem_03_flexdashboard.html)
 
 ##### STAT697 Issues in Statistics Project
 ###### Introduction:
