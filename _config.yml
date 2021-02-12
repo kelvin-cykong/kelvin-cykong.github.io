@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
 title: Welcome to Kelvin's Personal Website!
-description: Follow me to know more about me!
-google_analytics: G-0TGKWZNFWG
 logo: /img/logo.png
+description: Follow me to know more about me!
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
