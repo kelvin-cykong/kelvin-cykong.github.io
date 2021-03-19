@@ -38,12 +38,21 @@ Bachelor of Engineering in Electronic Engineering
 - GPU Computing in Ubuntu (CUDA)
   - Currently Using RTX3070
 
+### Coding Platform
+- Rstudio in Ubuntu and Windows for R Programming and Python Interpretation.
+- Anaconda and Visual Studio Code for Python Programming. Jupyter Notebook User.
+- SAS University Edition for School Project
+- TeamViewer for Remote Access
+
 ### Other Tools:
-- Markdown and LaTeX for academic writing and presentation
+- Markdown and LaTeX for Academic Writing and Presentation
 - MS Office
 - Google Docs/Sheet/Presentation
-- Linux User! (Ubuntu 20.04)
+- Zoom and Google Meet for Class, Presentation and Meetings
+- Linux User! (Currently using Ubuntu 20.04)
 - Of Course a GitHub user too!
+- Slack for Team Working Communication
+- Meld for Code Version Comparsion
 
 
 # Research Interest
@@ -53,12 +62,12 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 # Current and Past Projects:
 
 ## Lending Club Classification in R
-This competition is a [Kaggle competition](https://www.kaggle.com/wordsforthewise/lending-club), which is part of the project in my STAT 653 course. I used basic neural network to predict the variable *loan_status*, the repayment status of a person.
+This competition is a [Kaggle competition](https://www.kaggle.com/wordsforthewise/lending-club), which is part of the project in my STAT 653 course. I used basic neural network to predict the variable *loan_status*, the repayment status of a person. In this project, I compared various Machine Learning Algorithms that is widely used in classification and picked the one with best performance in the sample training and testing dataset for the full testing data set for prediction. The model comparison codes are located under the folder *model_comparison*, separated by each model. 
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/MachineLearning-Projects/Lending_Club_Project)
 
 ## Titanic Survial Classification in R
-This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic).
+This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this project, I compared various Machine Learning Algorithms that is widely used in classification and picked the one with best performance in the sample training and testing dataset for the full testing data set for prediction. The model comparison is in the report rmd and pdf.
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/MachineLearning-Projects/Kaggle_Titanic_Classification_in_R)
 
@@ -74,6 +83,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 [FlexDashboard of Lyft BayWheel Data using R Packages](Problem_03_flexdashboard.html)
 
 ## STAT697 Issues in Statistics Project
+This project analyze the figures and trends of California K-12 Schools using SAS and SQL. We used the official data set produced by the California Department of Education. [Link to Department of Education](https://www.cde.ca.gov/). It is a team project with 2 people working including me. As the team lead, I was responsible to communicate with my partner and also to the professor of this class. Since this course purely instructed online, we used Google 
 [Project Repo!](https://github.com/stat697-s20/team-1_project_repo)
 
 # Languages that I use:
