@@ -52,15 +52,22 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 
 # Current and Past Projects:
 
-## Lending Club Classification Project
+## Lending Club Classification in R
 This competition is a [Kaggle competition](https://www.kaggle.com/wordsforthewise/lending-club), which is part of the project in my STAT 653 course. I used basic neural network to predict the variable *loan_status*, the repayment status of a person.
-[Click Here to See my Project!](https://github.com/ckong9-stat697/Machine-Learning-Projects/Lending_Club_Project)
 
+[Click Here to See my Project!](https://github.com/ckong9-stat697/MachineLearning-Projects/Lending_Club_Project)
+
+## Titanic Survial Classification in R
+This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic).
+
+[Click Here to See my Project!](https://github.com/ckong9-stat697/MachineLearning-Projects/Kaggle_Titanic_Classification_in_R)
 
 ## STAT694 Applied Research in Statistics Research Project
 
 This project involves the use of NLP algorithms in analyzing the effect of COVID-19 on Twitter's Text.
+
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Research_in_Statistics-STAT694)
+
 [Click Here to See my Presentation!](stat694_presentation.html)
 
 ## Data Visualization Dashboard
