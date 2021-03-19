@@ -20,18 +20,31 @@ Bachelor of Engineering in Electronic Engineering
 
 ## Skills
 ### Statistical Programming and Visualization:
-- R
+
+- R, including Shiny and FlexDashBoard
 - Python
 - Tableau
 - SAS
 - SQL
 
+### Machine Learning and Deep Learning Packages
+- Scikit-learn
+- Tensorflow and Keras in R and Python
+- PyTorch
+
+### Tools and Softwares that I am learning now
+- Apache Spark
+- Building Neural Network in R and Python
+- GPU Computing in Ubuntu (CUDA)
+  - Currently Using RTX3070
+
 ### Other Tools:
 - Markdown and LaTeX for academic writing and presentation
 - MS Office
 - Google Docs/Sheet/Presentation
-- Linux User!
+- Linux User! (Ubuntu 20.04)
 - Of Course a GitHub user too!
+
 
 # Research Interest
 I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
@@ -39,23 +52,21 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 
 # Current and Past Projects:
 
+## Lending Club Classification Project
+This competition is a [Kaggle competition](https://www.kaggle.com/wordsforthewise/lending-club), which is part of the project in my STAT 653 course. I used basic neural network to predict the variable *loan_status*, the repayment status of a person.
+[Click Here to See my Project!](https://github.com/ckong9-stat697/Machine-Learning-Projects/Lending_Club_Project)
+
+
 ## STAT694 Applied Research in Statistics Research Project
 
-### Introduction:
 This project involves the use of NLP algorithms in analyzing the effect of COVID-19 on Twitter's Text.
-
-### Link:
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Research_in_Statistics-STAT694)
-
 [Click Here to See my Presentation!](stat694_presentation.html)
 
 ## Data Visualization Dashboard
 [FlexDashboard of Lyft BayWheel Data using R Packages](Problem_03_flexdashboard.html)
 
 ## STAT697 Issues in Statistics Project
-### Introduction:
-
-####Link:
 [Project Repo!](https://github.com/stat697-s20/team-1_project_repo)
 
 # Languages that I use:
