@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About me"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://ckong9-stat697.github.io/about/
   - title: "Education"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://ckong9-stat697.github.io/education/
   - title: "Current and Past Project"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://ckong9-stat697.github.io/projects/
   - title: "Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://ckong9-stat697.github.io/posts/
   - title: "Connect me"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://ckong9-stat697.github.io/connect-me/
