@@ -108,7 +108,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ckong9-stat697"
-    - label: "Linkedin
+    - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/chunyin-kong/"
     #- label: "Twitter"
@@ -133,7 +133,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ckong9-stat697"
-    - label: "Linkedin
+    - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/chunyin-kong/"
     #- label: "Twitter"
