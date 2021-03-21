@@ -95,17 +95,17 @@ analytics:
 # Site Author
 author:
   name             : "Kelvin Kong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "img/logo.png"
   bio              : "A master student studying Statistics, Data Science, graduating in Summer 2021. Seeking full-time position in Data Science."
   location         : "Union City, California"
   email            : "ckong@ieee.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ckong@ieee.org"
+      url: "mailto:ckong@ieee.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://ckong9-stat697.github.io"
+      url: "https://ckong9-stat697.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
