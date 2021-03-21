@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kelvin (Chun Yin) Kong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A master student studying Statistics, Data Science, graduating in Summer 2021. Seeking full-time position in Data Science."
   location         : "Union City, California"
-  email            :
+  email            : "ckong@ieee.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
