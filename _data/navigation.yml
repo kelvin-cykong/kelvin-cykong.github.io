@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About me"
-    url: https://ckong9-stat697.github.io/about/
+    url: https://ckong9-stat697.github.io/pages/about/
   - title: "Education"
-    url: https://ckong9-stat697.github.io/education/
+    url: https://ckong9-stat697.github.io/pages/education/
   - title: "Current and Past Project"
-    url: https://ckong9-stat697.github.io/projects/
+    url: https://ckong9-stat697.github.io/pages/projects/
   - title: "Posts"
-    url: https://ckong9-stat697.github.io/posts/
+    url: https://ckong9-stat697.github.io/pages/posts/
   - title: "Connect me"
-    url: https://ckong9-stat697.github.io/connect-me/
+    url: https://ckong9-stat697.github.io/pages/connect-me/
