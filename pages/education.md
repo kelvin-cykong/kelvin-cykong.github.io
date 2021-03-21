@@ -1,5 +1,3 @@
-## Education:
-
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration
 
