@@ -1,3 +1,9 @@
+---
+permalink: /projects/
+title: "My Current and Past Projects"
+last_modified_at: 2021-03-20T20:54:41-05:00
+toc: true
+---
 # Research Interest
 I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
 
@@ -28,11 +34,11 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Research_in_Statistics-STAT694)
 
-[Click Here to See my Presentation!](stat694_presentation.html)
+[Click Here to See my Presentation!](https://github.com/ckong9-stat697/ckong9-stat697.github.io/docs/stat694_presentation.html)
 
 
 ## Data Visualization Dashboard
-[FlexDashboard of Lyft BayWheel Data using R Packages](Problem_03_flexdashboard.html)
+[FlexDashboard of Lyft BayWheel Data using R Packages](https://github.com/ckong9-stat697/ckong9-stat697.github.io/docs/Problem_03_flexdashboard.html)
 
 
 ## STAT697 Issues in Statistics Project
