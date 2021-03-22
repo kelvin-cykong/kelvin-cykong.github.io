@@ -6,6 +6,7 @@ toc: true
 ---
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration
+Aug 2019 - Present
 
 - GPA: 3.88
 - Learner of Machine Learning and Deep Learning in R and Python
@@ -14,6 +15,7 @@ Master of Science in Statistics, Data Science Concentration
 
 ### The Chinese University of Hong Kong
 Bachelor of Engineering in Electronic Engineering
+Sept 2016 - May 2019
 
 - Studied Analog and Digital Circuit Design
 - Modern Communication and Signal Processing
