@@ -38,7 +38,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 
 ## STAT697 Issues in Statistics Project
-This project analyze the figures and trends of California K-12 Schools using SAS and SQL. We used the official data set produced by the California Department of Education. [Link to Department of Education](https://www.cde.ca.gov/). It is a team project with 2 people working including me. As the team lead, I was responsible to communicate with my partner and also to the professor of this class. Since this course purely instructed online, we used Google 
+This project analyze the figures and trends of California K-12 Schools using SAS and SQL. We used the official data set produced by the [California Department of Education](https://www.cde.ca.gov/). It is a team project with 2 people working including me. As the team lead, I was responsible to communicate with my partner and also to the professor of this class. Since this course purely instructed online, we used Google Meet and Slack for Team communication and weekly meetings with professor.
 [Project Repo!](stat697-s20/team-1_project_repo)
 
 # Research Interest
