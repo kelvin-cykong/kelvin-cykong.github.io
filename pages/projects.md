@@ -1,13 +1,9 @@
 ---
 permalink: /projects/
-title: "My Current and Past Projects"
+title: ""
 last_modified_at: 2021-03-20T20:54:41-05:00
 toc: true
 ---
-# Research Interest
-I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
-
-
 # Current and Past Projects:
 ## Event and Location Based Twitter Text Classification
 This is the project that I am currently working on. My goal is to analyze the text in Social Media (In this case, Twitter), based on the user's location and classify the event the user is mentioning, to see if there are any relationship with some variables, for example, Location, Time, Events, Level of Interest, Sentiment etc. 
@@ -44,3 +40,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 ## STAT697 Issues in Statistics Project
 This project analyze the figures and trends of California K-12 Schools using SAS and SQL. We used the official data set produced by the California Department of Education. [Link to Department of Education](https://www.cde.ca.gov/). It is a team project with 2 people working including me. As the team lead, I was responsible to communicate with my partner and also to the professor of this class. Since this course purely instructed online, we used Google 
 [Project Repo!](https://github.com/stat697-s20/team-1_project_repo)
+
+# Research Interest
+I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
+
