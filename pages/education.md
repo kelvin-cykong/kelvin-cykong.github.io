@@ -6,6 +6,7 @@ toc: true
 ---
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration
+
 Aug 2019 - Present
 
 - GPA: 3.88
@@ -15,7 +16,11 @@ Aug 2019 - Present
 
 ### The Chinese University of Hong Kong
 Bachelor of Engineering in Electronic Engineering
+
 Sept 2016 - May 2019
 
 - Studied Analog and Digital Circuit Design
 - Modern Communication and Signal Processing
+- Image Processing
+- Engineering Mathematics and Statistics
+- Final Year Project: Modern Communication Techniques in Fiber Optics
