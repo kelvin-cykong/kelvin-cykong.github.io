@@ -10,13 +10,13 @@ This is the project that I am currently working on. My goal is to analyze the te
 
 Current phase of this project is in data collection, data wrangling and pre-processing the text data.
 
-[Click Here to See my Project!](https://github.com/ckong9-stat697/Classification_Twitter_Project)
+[Click Here to See my Project!](https://ckong9-stat697.github.io/Twitter-Classification-Project/)
 
 
 ## Lending Club Classification in R
 This competition is a [Kaggle competition](https://www.kaggle.com/wordsforthewise/lending-club), which is part of the project in my STAT 653 course. I used basic neural network to predict the variable *loan_status*, the repayment status of a person. In this project, I compared various Machine Learning Algorithms that is widely used in classification and picked the one with best performance in the sample training and testing dataset for the full testing data set for prediction. The model comparison codes are located under the folder *model_comparison*, separated by each model. 
 
-[Click Here to See my Project!](https://github.com/ckong9-stat697/MachineLearning-Projects/Lending_Club_Project/)
+[Click Here to See my Project!](https://ckong9-stat697.github.io/MachineLearning-Projects/Lending_Club_Project/)
 
 
 ## Titanic Survial Classification in R
