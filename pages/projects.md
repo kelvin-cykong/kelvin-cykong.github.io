@@ -21,6 +21,8 @@ Current phase of this project is in data collection, data wrangling and pre-proc
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Twitter-Classification-Project/)
 
+
+
 # Past Projects:
 
 ### STAT697 Issues in Statistics Project
