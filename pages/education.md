@@ -7,12 +7,16 @@ toc: true
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration
 
-Aug 2019 - Present
+Aug 2019 - May 2021
 
-- GPA: 3.88
-- Learner of Machine Learning and Deep Learning in R and Python
-- Expected Graduation Term: Spring 2021
+- GPA: 3.883
+- Graduated!
+- Python and R user
+- Keras user in Python and R
+- Specialize in Machine Learning and Deep Learning Algorithms in Natural Language Processing (NLP) projects.
+- Also willing to explore more on different types of data visualization, data integration, analytics, classification and prediction.
 - Now looking graduate job and research opportunities in the US. Now I live in California, but I am also willing to relocate!
+- Worked on courses including advanced probability, ANOVA, statistical learning, machine learning, NLP and applied deep learning algorithms.
 
 ### The Chinese University of Hong Kong
 Bachelor of Engineering in Electronic Engineering
