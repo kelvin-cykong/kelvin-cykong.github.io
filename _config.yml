@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" #"default" # , "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kelvin's Personal Website and Profile"
+title                    : "Kelvin's Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kelvin (Chun Yin) Kong"
-description              : "My project sharing site."
+description              : "My project sharing site and profile."
 url                      : "https://ckong9-stat697/github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Kelvin Kong"
   avatar           : "img/logo.png"
-  bio              : "A master student studying Statistics, Data Science, graduating in Summer 2021. Seeking full-time position in Data Science."
+  bio              : "A recent master degree graduate in Statistics, Data Science. Seeking full-time position in Data Science."
   location         : "Union City, California"
   links:
     - label: "Email"
