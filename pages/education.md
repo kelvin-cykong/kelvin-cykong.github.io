@@ -1,7 +1,7 @@
 ---
 permalink: /education/
 title: "My Education"
-last_modified_at: 2021-03-20T20:54:41-05:00
+last_modified_at: 2021-06-16T20:54:41-05:00
 toc: true
 ---
 ### California State University East Bay
