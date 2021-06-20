@@ -44,7 +44,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Research_in_Statistics-STAT694)
 
-[Click Here to See my Presentation!](https://github.com/ckong9-stat697/stat694_presentation.html)
+[Click Here to See my Presentation!](https://ckong9-stat697.github.io/stat694_presentation.html)
 
 
 ### STAT697 Issues in Statistics Project
@@ -74,7 +74,7 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 
 
 ### Data Visualization Dashboard
-[FlexDashboard of Lyft BayWheel Data using R Packages](https://github.com/ckong9-stat697/Problem_03_flexdashboard.html)
+[FlexDashboard of Lyft BayWheel Data using R Packages](https://ckong9-stat697.github.io/Problem_03_flexdashboard.html)
 
 
 ## Research Interest
