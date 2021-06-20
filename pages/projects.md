@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: ""
+title: "My Projects"
 last_modified_at: 2021-06-19T20:54:41-05:00
 toc: true
 ---
