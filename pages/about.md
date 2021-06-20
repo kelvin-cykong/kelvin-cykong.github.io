@@ -1,12 +1,12 @@
 ---
 permalink: /about/
 title: "About me!"
-last_modified_at: 2021-03-20T20:54:41-05:00
+last_modified_at: 2021-06-18T20:54:41-05:00
 toc: true
 ---
 
 ## Background
-I am an international student from Hong Kong 🇭🇰. Currently in California, USA 🇺🇸. I also spent two years of high school in the UK 🇬🇧 !. It is fun to experience two different counties!
+I am an international student from Hong Kong. Currently in California, USA. I also spent two years of high school in the UK!. It is fun to experience two different counties!
 
 ## Hobbies
 - Hiking 🥾
@@ -24,21 +24,20 @@ I speak and write in three languages!
 ## Skills
 ### Statistical Programming and Visualization:
 
-- R, including Shiny and FlexDashBoard
-- Python
+- R, including Shiny and FlexDashBoard, ggplot2, tidyverse, dplyr and more!
+- Python, scikit-learn, PyTorch and more!
 - Tableau
 - SAS
 - SQL
 
 ### Machine Learning and Deep Learning Packages
-- Scikit-learn
 - Tensorflow and Keras in R and Python
-- PyTorch
+- Basic Neural Network Building for prediction and classification
 
 ### Tools and Softwares that I am learning now
 - Apache Spark
-- Building Neural Network in R and Python
-- GPU Computing in Ubuntu (CUDA)
+- Building Complex Neural Network in R and Python
+- GPU Computing in Linux Environment using Ubuntu (CUDA)
   - Currently Using RTX3070
 
 ### Coding Platform
