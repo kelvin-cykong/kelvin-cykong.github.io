@@ -1,17 +1,13 @@
 ---
 permalink: /projects/
-title: ""
-last_modified_at: 2021-04-13T20:54:41-05:00
+title: "My Projects"
+last_modified_at: 2021-06-19T20:54:41-05:00
 toc: true
 ---
+
+# Please note that now I am currently working on restructuring my GitHub Profile and Repos, new contents will be available very soon!
+
 ## Current Projects
-
-### Eluvio Data Science Challenge
-Currently working on building Neural Network on classifying Popular News article based on the title text.
-
-
-[Click Here to See my Project!](https://github.com/ckong9-stat697/Eluvio_DS_Challenge/)
-
 
 ### Kaggle Dogs vs Cats
 Building algorithm on classification of dogs and cats in image data.
@@ -19,7 +15,7 @@ Building algorithm on classification of dogs and cats in image data.
 It is a Kaggle competition which should also include the submission.csv file for score calculation.
 
 
-[Click Here to See my Project!](https://github.com/ckong9-stat697/DeepLearning-Projects/KaggleDogsVSCats)
+[Click Here to See my Project!](https://github.com/ckong9-stat697/KaggleDogs_Cats)
 
 
 ### Event and Location Based Twitter Text Classification
@@ -33,6 +29,12 @@ Current phase of this project is in data collection, data wrangling and pre-proc
 
 ## Past Projects:
 
+### Eluvio Data Science Challenge
+
+This is my work on building Neural Network on classifying Popular News article based on the title text.
+
+
+[Click Here to See my Project!](https://github.com/ckong9-stat697/Eluvio_DS_Challenge/)
 
 ### STAT694 Applied Research in Statistics Research Project
 *Worked from Aug 2020 - Dec 2020*
@@ -42,7 +44,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 [Click Here to See my Project!](https://github.com/ckong9-stat697/Research_in_Statistics-STAT694)
 
-[Click Here to See my Presentation!](/docs/stat694_presentation.html)
+[Click Here to See my Presentation!](https://ckong9-stat697.github.io/stat694_presentation.html)
 
 
 ### STAT697 Issues in Statistics Project
@@ -72,7 +74,7 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 
 
 ### Data Visualization Dashboard
-[FlexDashboard of Lyft BayWheel Data using R Packages](/docs/Problem_03_flexdashboard.html)
+[FlexDashboard of Lyft BayWheel Data using R Packages](https://ckong9-stat697.github.io/Problem_03_flexdashboard.html)
 
 
 ## Research Interest
