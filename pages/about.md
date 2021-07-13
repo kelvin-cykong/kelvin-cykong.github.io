@@ -8,6 +8,10 @@ toc: true
 ## Background
 I am an international student from Hong Kong. Currently in California, USA. I also spent two years of high school in the UK!. It is fun to experience two different counties!
 
+## Current Status
+Currently working in a start-up on Photogrammetry development. Performing statistical analysis and model building on 3D models and scanning.
+
+
 ## Hobbies
 - Hiking 🥾
 - Visiting National Park 🏞️
@@ -26,6 +30,7 @@ I speak and write in three languages!
 
 - R, including Shiny and FlexDashBoard, ggplot2, tidyverse, dplyr and more!
 - Python, scikit-learn, PyTorch and more!
+- OpenCV in image and modeling
 - Tableau
 - SAS
 - SQL
