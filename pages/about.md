@@ -40,7 +40,6 @@ I speak and write in three languages!
 - Basic Neural Network Building for prediction and classification
 
 ### Tools and Softwares that I am learning now
-- Apache Spark
 - Building Complex Neural Network in R and Python
 - GPU Computing in Linux Environment using Ubuntu (CUDA)
   - Currently Using RTX3070
