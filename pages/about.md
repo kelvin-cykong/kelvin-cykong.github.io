@@ -1,15 +1,16 @@
 ---
 permalink: /about/
 title: "About me!"
-last_modified_at: 2021-06-18T20:54:41-05:00
+last_modified_at: 2021-09-25T20:54:41-05:00
 toc: true
 ---
 
 ## Background
-I am an international student from Hong Kong. Currently in California, USA. I also spent two years of high school in the UK!. It is fun to experience two different counties!
+I am an international student from Hong Kong. Currently located in California, USA. I also spent two years of high school in the UK!. It is fun to experience two different counties!
+
 
 ## Current Status
-Currently working in a start-up on Photogrammetry development. Performing statistical analysis and model building on 3D models and scanning.
+Currently working in a tech company with Data Science working experience.
 
 
 ## Hobbies
@@ -19,13 +20,19 @@ Currently working in a start-up on Photogrammetry development. Performing statis
 - Playing Piano 🎹
 - Driving and Road Trip 🚙
 
+
 ## Languages that I use:
 I speak and write in three languages!
 - Cantonese: This is my native language.
 - English: Fluent
 - Mandarin: Fluent
 
+
 ## Skills
+### Computing Machine currently in Use:
+- Macbook Air M1 2020
+- Ubuntu 20.04 (Desktop)
+
 ### Statistical Programming and Visualization:
 
 - R, including Shiny and FlexDashBoard, ggplot2, tidyverse, dplyr and more!
@@ -55,7 +62,6 @@ I speak and write in three languages!
 - MS Office
 - Google Docs/Sheet/Presentation
 - Zoom and Google Meet for Class, Presentation and Meetings
-- Linux User! (Currently using Ubuntu 20.04)
 - Of Course a GitHub user too!
 - Slack for Team Working Communication
 - Meld for Code Version Comparsion
