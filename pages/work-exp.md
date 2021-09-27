@@ -14,7 +14,8 @@ toc: true
 ## The Ohzone Inc.
 #### Engineering and Data Analytics Intern
 *July 21 - Sept 21*
-- Develop using OpenCV on Python
+- Develop and Image Processing Tools using OpenCV on Python
+- Develop 3D models on images
 
 
 ## The Chinese Unviersity of Hong Kong
