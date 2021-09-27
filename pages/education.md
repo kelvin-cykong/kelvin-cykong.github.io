@@ -9,8 +9,7 @@ Master of Science in Statistics, Data Science Concentration
 
 Aug 2019 - May 2021
 
-- GPA: 3.883
-- Graduated!
+- Graduated with GPA: 3.883
 - Python and R user
 - Keras user in Python and R
 - Specialize in Machine Learning and Deep Learning Algorithms in Natural Language Processing (NLP) projects.

@@ -1,12 +1,14 @@
 # main links
 main:
   - title: "About me"
-    url: https://ckong9-stat697.github.io/about/
+    url: https://kelvin-cykong.github.io/about/
+  - title: "My Working Experience"
+    url: https://kelvin-cykong.github.io/work-exp/
   - title: "My Education"
-    url: https://ckong9-stat697.github.io/education/
+    url: https://kelvin-cykong.github.io/education/
   - title: "My Current and Past Project"
-    url: https://ckong9-stat697.github.io/projects/
+    url: https://kelvin-cykong.github.io/projects/
   - title: "My Posts"
-    url: https://ckong9-stat697.github.io/posts/
+    url: https://kelvin-cykong.github.io/posts/
   - title: "Connect me"
-    url: https://ckong9-stat697.github.io/connect-me/
+    url: https://kelvin-cykong.github.io/connect-me/
