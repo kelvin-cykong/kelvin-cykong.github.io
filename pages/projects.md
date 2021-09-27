@@ -1,27 +1,32 @@
 ---
 permalink: /projects/
 title: "My Projects"
-last_modified_at: 2021-09-125T20:54:41-05:00
+last_modified_at: 2021-09-21T20:54:41-05:00
 toc: true
 ---
 
-# Please note that now I am currently working on restructuring my GitHub Profile and Repos, new contents will be available very soon!
+*Please note that now I am currently working on restructuring my GitHub Profile and Repos, new contents will be available very soon!*
+
+## Research Interest
+I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
+
 
 ## Current Projects
 ### Group Machine Learning Projects
+*Aug 2021 - Present*
 I am now leading a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com.
 
 
 ### OpenCV Projects
+*July 2021 - Present*
 My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
 
-GitHub repo is currently under construction. Please check back later!s
+GitHub repo is currently under construction. Please check back later!
 
 ### Kaggle Dogs vs Cats
 Building algorithm on classification of dogs and cats in image data.
 
 It is a Kaggle competition which should also include the submission.csv file for score calculation.
-
 
 [Click Here to See my Project!](https://github.com/kelvin-cykong/KaggleDogs_Cats)
 
@@ -34,13 +39,11 @@ Current phase of this project is in data collection, data wrangling and pre-proc
 [Click Here to See my Project!](https://github.com/kelvin-cykong/Twitter-Classification-Project/)
 
 
-
 ## Past Projects:
 
 ### Eluvio Data Science Challenge
 
 This is my work on building Neural Network on classifying Popular News article based on the title text.
-
 
 [Click Here to See my Project!](https://github.com/kelvin-cykong/Eluvio_DS_Challenge/)
 
@@ -85,6 +88,5 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 [FlexDashboard of Lyft BayWheel Data using R Packages](https://kelvin-cykong.github.io/Problem_03_flexdashboard.html)
 
 
-## Research Interest
-I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
+
 
