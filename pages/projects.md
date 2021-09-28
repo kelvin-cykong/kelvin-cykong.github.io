@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: "My Projects"
-last_modified_at: 2021-09-21T20:54:41-05:00
+last_modified_at: 2021-09-27T11:54:41-05:00
 toc: true
 ---
 
@@ -14,15 +14,23 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 ## Current Projects
 ### Group Machine Learning Projects
 *Aug 2021 - Present*
-I am now leading a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com.
+
+
+I am now leading a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com. 
+
+We will regularly meet on Zoom on every Monday evening for progress update and lead some tutorials. For conversations and group chat we use Slack for communication.
 
 
 ### OpenCV Projects
 *July 2021 - Present*
+
+
 My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
 
-GitHub repo is currently under construction. Please check back later!
+*GitHub repo is currently under construction. Please check back later!*
 
+
+## Paused Projects
 ### Kaggle Dogs vs Cats
 Building algorithm on classification of dogs and cats in image data.
 
