@@ -27,7 +27,7 @@ We will regularly meet on Zoom on every Monday evening for progress update and l
 
 My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
 
-GitHub repo is currently under construction. Please check back later!
+*GitHub repo is currently under construction. Please check back later!*
 
 
 ## Paused Projects

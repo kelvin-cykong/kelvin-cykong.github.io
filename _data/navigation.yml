@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About me"
-    url: https://kelvin-cykong.github.io/about/
   - title: "My Working Experience"
     url: https://kelvin-cykong.github.io/work-exp/
   - title: "My Education"
