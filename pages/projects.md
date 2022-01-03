@@ -12,8 +12,12 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 
 
 ## Current Projects
+### Twitter Tweet Text Classification Project
+*Live Personal Project*
+
+
+
 ### Group Machine Learning Projects
-*Aug 2021 - Present*
 
 
 I am now leading a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com. 
@@ -22,7 +26,7 @@ We will regularly meet on Zoom on every Monday evening for progress update and l
 
 
 ### OpenCV Projects
-*July 2021 - Present*
+*Live Personal Project*
 
 
 My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
@@ -30,7 +34,7 @@ My latest trials on Python OpenCV. Will include some edge and feature detection,
 *GitHub repo is currently under construction. Please check back later!*
 
 
-## Paused Projects
+## Past Projects
 ### Kaggle Dogs vs Cats
 Building algorithm on classification of dogs and cats in image data.
 
