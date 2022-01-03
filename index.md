@@ -8,7 +8,9 @@ Welcome to my personal website. My name is Kelvin, and I am a recent master degr
 # About me!
 
 ## Background
-I am an international student from Hong Kong. Currently located in California, USA. I also spent two years of high school in the UK!. It is fun to experience two different counties!
+I am an international student from Hong Kong. Currently located in California, USA. 
+
+I also spent two years of high school in the UK!. It is fun to experience two different counties!
 
 
 ## Current Status
