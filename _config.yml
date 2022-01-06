@@ -97,7 +97,7 @@ author:
   name             : "Kelvin Kong"
   avatar           : "img/logo.png"
   bio              : "Recent grad student majoring Statistics, Data Science. Currently working in a tech company."
-  location         : "San Francisco Bay Area, California, USA"
+  location         : "San Francisco Bay Area, California"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
