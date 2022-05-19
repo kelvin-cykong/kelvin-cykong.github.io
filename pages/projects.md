@@ -12,7 +12,7 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 
 
 ## Current Projects
-### Twitter Tweet Text Classification Project
+#### Twitter Tweet Text Classification Project
 *Live Personal Project*
 
 
@@ -24,7 +24,9 @@ After data collection stage, it is time to apply preprocessing to data and perfo
 
 
 ## Past Projects
-### Group Machine Learning Projects
+### Team Based Leading Projects
+#### Group Machine Learning Project
+
 
 
 I lead a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com. 
@@ -32,28 +34,9 @@ I lead a group of students working on small and medium size of machine learning 
 We will regularly meet on Zoom on every Monday evening for progress update and lead some tutorials. For conversations and group chat we use Slack for communication.
 
 
-### OpenCV Projects
 
-
-
-My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
-
-*GitHub repo is currently under construction. Please check back later!*
-
-
-
-### Kaggle Dogs vs Cats
-
-
-
-Building algorithm on classification of dogs and cats in image data.
-
-It is a Kaggle competition which should also include the submission.csv file for score calculation.
-
-[Click Here to See my Project!](https://github.com/kelvin-cykong/KaggleDogs_Cats)
-
-
-### Event and Location Based Twitter Text Classification
+### Text Data Related
+#### Event and Location Based Twitter Text Classification
 This is the project that I am currently working on. My goal is to analyze the text in Social Media (In this case, Twitter), based on the user's location and classify the event the user is mentioning, to see if there are any relationship with some variables, for example, Location, Time, Events, Level of Interest, Sentiment etc. 
 
 Current phase of this project is in data collection, data wrangling and pre-processing the text data.
@@ -62,7 +45,7 @@ Current phase of this project is in data collection, data wrangling and pre-proc
 
 
 
-### STAT694 Applied Research in Statistics Research Project
+#### STAT694 Applied Research in Statistics Research Project
 *Worked from Aug 2020 - Dec 2020*
 
 
@@ -73,7 +56,9 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 [Click Here to See my Presentation!](/docs/stat694_presentation.html)
 
 
-### STAT697 Issues in Statistics Project
+
+### Data Analysis
+#### STAT697 Issues in Statistics Project
 *Worked from Jan 2020 - Mar 2020*
 
 
@@ -99,9 +84,30 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 [Click Here to See my Project!](https://github.com/kelvin-cykong/MachineLearning-Projects/Kaggle_Titanic_Classification_in_R)
 
 
-### Data Visualization Dashboard
+
+### Image and Video Projects
+#### OpenCV Projects
+
+
+
+My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
+
+*GitHub repo is currently under construction. Please check back later!*
+
+
+
+#### Kaggle Dogs vs Cats
+
+
+
+Building algorithm on classification of dogs and cats in image data.
+
+It is a Kaggle competition which should also include the submission.csv file for score calculation.
+
+[Click Here to See my Project!](https://github.com/kelvin-cykong/KaggleDogs_Cats)
+
+
+
+### Data Visualization 
+#### Lyft BayWheel Data Dashboard
 [FlexDashboard of Lyft BayWheel Data using R Packages](/docs/Problem_03_flexdashboard.html)
-
-
-
-
