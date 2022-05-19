@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: "My Projects"
-last_modified_at: 2022-01-02T11:54:41-05:00
+last_modified_at: 2022-05-18T11:54:41-05:00
 toc: true
 ---
 
@@ -17,16 +17,23 @@ I am interested in studying the difference and sentiment analysis of Cantonese a
 
 
 
+I am currently working on the data extraction using Twitter API v2 to extract recent and past tweets on various topics. 
+
+After data collection stage, it is time to apply preprocessing to data and perform some NLP techniques for further data and sentiment analysis of Twitter Text, classification and other insights.
+
+
+
+## Past Projects
 ### Group Machine Learning Projects
 
 
-I am now leading a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com. 
+I lead a group of students working on small and medium size of machine learning and deep learning projects on real world data set, ideas from kaggle.com. 
 
 We will regularly meet on Zoom on every Monday evening for progress update and lead some tutorials. For conversations and group chat we use Slack for communication.
 
 
 ### OpenCV Projects
-*Live Personal Project*
+
 
 
 My latest trials on Python OpenCV. Will include some edge and feature detection, color conversion and detection, machine learning and deep learning etc.
@@ -34,8 +41,11 @@ My latest trials on Python OpenCV. Will include some edge and feature detection,
 *GitHub repo is currently under construction. Please check back later!*
 
 
-## Past Projects
+
 ### Kaggle Dogs vs Cats
+
+
+
 Building algorithm on classification of dogs and cats in image data.
 
 It is a Kaggle competition which should also include the submission.csv file for score calculation.
@@ -51,13 +61,6 @@ Current phase of this project is in data collection, data wrangling and pre-proc
 [Click Here to See my Project!](https://github.com/kelvin-cykong/Twitter-Classification-Project/)
 
 
-## Past Projects:
-
-### Eluvio Data Science Challenge
-
-This is my work on building Neural Network on classifying Popular News article based on the title text.
-
-[Click Here to See my Project!](https://github.com/kelvin-cykong/Eluvio_DS_Challenge/)
 
 ### STAT694 Applied Research in Statistics Research Project
 *Worked from Aug 2020 - Dec 2020*
@@ -67,7 +70,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 [Click Here to See my Project!](https://github.com/kelvin-cykong/Research_in_Statistics-STAT694)
 
-[Click Here to See my Presentation!](https://kelvin-cykong.github.io/stat694_presentation.html)
+[Click Here to See my Presentation!](/docs/stat694_presentation.html)
 
 
 ### STAT697 Issues in Statistics Project
@@ -97,7 +100,7 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 
 
 ### Data Visualization Dashboard
-[FlexDashboard of Lyft BayWheel Data using R Packages](https://kelvin-cykong.github.io/Problem_03_flexdashboard.html)
+[FlexDashboard of Lyft BayWheel Data using R Packages](/docs/Problem_03_flexdashboard.html)
 
 
 
