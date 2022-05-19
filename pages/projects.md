@@ -11,7 +11,9 @@ toc: true
 I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
 
 
+
 ## Current Projects
+
 #### Twitter Tweet Text Classification Project
 *Live Personal Project*
 
@@ -24,7 +26,9 @@ After data collection stage, it is time to apply preprocessing to data and perfo
 
 
 ## Past Projects
+
 ### Team Based Leading Projects
+
 #### Group Machine Learning Project
 
 
@@ -36,6 +40,7 @@ We will regularly meet on Zoom on every Monday evening for progress update and l
 
 
 ### Text Data Related
+
 #### Event and Location Based Twitter Text Classification
 This is the project that I am currently working on. My goal is to analyze the text in Social Media (In this case, Twitter), based on the user's location and classify the event the user is mentioning, to see if there are any relationship with some variables, for example, Location, Time, Events, Level of Interest, Sentiment etc. 
 
@@ -58,6 +63,7 @@ This project involves the use of NLP algorithms in analyzing the effect of COVID
 
 
 ### Data Analysis
+
 #### STAT697 Issues in Statistics Project
 *Worked from Jan 2020 - Mar 2020*
 
@@ -86,6 +92,7 @@ This is also a [Kaggle Competition](https://www.kaggle.com/c/titanic). In this p
 
 
 ### Image and Video Projects
+
 #### OpenCV Projects
 
 
@@ -109,5 +116,6 @@ It is a Kaggle competition which should also include the submission.csv file for
 
 
 ### Data Visualization 
+
 #### Lyft BayWheel Data Dashboard
 [FlexDashboard of Lyft BayWheel Data using R Packages](/docs/Problem_03_flexdashboard.html)

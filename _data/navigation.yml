@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "My Working Experience"
+  - title: "Experiences"
     url: https://kelvin-cykong.github.io/work-exp/
-  - title: "My Education"
+  - title: "Education"
     url: https://kelvin-cykong.github.io/education/
-  - title: "My Current and Past Project"
+  - title: "My Projects"
     url: https://kelvin-cykong.github.io/projects/
-  - title: "My Posts"
-    url: https://kelvin-cykong.github.io/posts/
   - title: "Connect me"
     url: https://kelvin-cykong.github.io/connect-me/
