@@ -1,13 +1,9 @@
 ---
 permalink: /education/
 title: "My Education"
-last_modified_at: 2022-01-01T20:54:41-05:00
+last_modified_at: 2022-05-18T20:54:41-05:00
 toc: true
 ---
-### DeepLearning.AI on Coursera.org
-Deep Learning Specialization
-
-Dec 2021 - Present
 
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration

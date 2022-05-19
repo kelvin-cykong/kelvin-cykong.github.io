@@ -1,15 +1,14 @@
 ---
 permalink: /work-exp/
 title: "Work Experiences"
-last_modified_at: 2022-01-02T10:54:41-05:00
+last_modified_at: 2022-05-18T10:54:41-05:00
 toc: true
 ---
 ## Advantis Global Inc.
 ### Siri Language Curator (Hong Kong)
 *Sept 21 - Present in San Jose, California*
 - Contracted at Apple, Inc.
-- Working in Siri Cantonese Annotation Team, Improve the accuracy of Siri Cantonese Live Data Accuracy.
-- Currently working from Home.
+- Working in Siri Cantonese Annotation Team, improving the overall quality and responses of the virtual assistant.
 
 
 
