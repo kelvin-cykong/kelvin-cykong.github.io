@@ -1,7 +1,7 @@
 ---
 permalink: /education/
 title: "My Education"
-last_modified_at: 2022-05-18T20:54:41-05:00
+last_modified_at: 2022-08-04
 toc: true
 ---
 
