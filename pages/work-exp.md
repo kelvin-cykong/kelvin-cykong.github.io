@@ -1,7 +1,7 @@
 ---
 permalink: /work-exp/
-title: "Work Experiences"
-last_modified_at: 2022-05-18T10:54:41-05:00
+title: "Work Experiences and Skills"
+last_modified_at: 2022-08-04
 toc: true
 ---
 ## Advantis Global Inc.
@@ -45,3 +45,34 @@ toc: true
 - Desiged, programmed, and tested the PCB and Microcontroller Unit of the pill dispenser prototype.
 - Participate in "Jumpstarter", a start-up conference held by Alibaba Entrepreneurs Fund in Jan 2019.
     - Awarded Top 3 in Hong Kong (Smart City Area)
+
+
+
+## Skills
+#### Programming Languages and Packages:
+
+- R, including Shiny and FlexDashBoard, ggplot2, tidyverse, dplyr and more!
+- Python, scikit-learn, PyTorch and more!
+- OpenCV in image and modeling
+- Tableau
+- SAS
+- SQL
+- Tensorflow and Keras in R and Python
+- Neural Network Constructions
+
+#### Computing Machine currently in Use:
+- Macbook Air M1 2020 for remote work
+- Ubuntu 20.04 (Desktop) for heavy computational tasks
+
+#### Coding Platform
+- Rstudio in Ubuntu and Windows for R Programming and Python Interpretation.
+- Anaconda and Visual Studio Code for Python Programming. Jupyter Notebook User.
+
+#### Other Tools:
+- Markdown and LaTeX for Academic Writing and Presentation
+- MS Office
+- Google Docs/Sheet/Presentation
+- Zoom and Google Meet for Class, Presentation and Meetings
+- Of Course a GitHub user too!
+- Slack for Team Working Communication
+- Meld for Code Version Comparsion
