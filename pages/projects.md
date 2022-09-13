@@ -7,6 +7,9 @@ toc: true
 
 *Please note that now I am currently working on restructuring my GitHub Profile and Repos, new contents will be available very soon!*
 
+
+*Contents are reworking for better presentation.*
+
 ## Research Interest
 I am interested in studying the difference and sentiment analysis of Cantonese and English Text in social media like FaceBook, Twitter etc. It is part of the technique of Natural Language Processing and I would love to explore their difference.
 
