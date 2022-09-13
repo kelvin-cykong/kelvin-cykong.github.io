@@ -3,7 +3,7 @@ title: "Welcome!"
 toc: true
 ---
 
-Welcome to my personal website. My name is Kelvin. In this website you will find all my information, including my education, my personal life, my projects and all other interesting things about me! Please do not hesitate to read my posts and connect me! 
+Welcome to my personal website. My name is Kelvin. In this website you will find all my portfolio, including my education, my personal life, my projects and all other interesting things about me! Please do not hesitate to read my posts and connect with me! 
 
 ## About me!
 
