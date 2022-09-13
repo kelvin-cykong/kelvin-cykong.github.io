@@ -6,9 +6,10 @@ toc: true
 ---
 ## Advantis Global Inc.
 ### Siri Language Curator (Hong Kong)
-*Sept 21 - Present in San Jose, California*
+*Sept 21 - Present | Remote*
 - Contracted at Apple, Inc.
-- Working in Siri Cantonese Annotation Team, improving the overall quality and responses of the virtual assistant.
+- Working in Siri Cantonese Annotation Team, analyzing the raw language utterances and data in Cantonese and categorize user's intention.
+- By tokenize with lexicons and algoritms to improve the overall quality and responses of the virtual assistant.
 
 
 
@@ -60,13 +61,9 @@ toc: true
 - Tensorflow and Keras in R and Python
 - Neural Network Constructions
 
-#### Computing Machine currently in Use:
-- Macbook Air M1 2020 for remote work
-- Ubuntu 20.04 (Desktop) for heavy computational tasks
-
-#### Coding Platform
-- Rstudio in Ubuntu and Windows for R Programming and Python Interpretation.
-- Anaconda and Visual Studio Code for Python Programming. Jupyter Notebook User.
+#### Devices for work and code:
+- Macbook Air M1 2020 for light/remote work
+- PC with Ubuntu 20.04 for heavy computational tasks/involving GPU computation.
 
 #### Other Tools:
 - Markdown and LaTeX for Academic Writing and Presentation
