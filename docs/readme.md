@@ -1,1 +1,3 @@
-this folder contains all the documents can be downloaded on my page
+# Kelvin's Personal Website!
+
+Special thanks to 
