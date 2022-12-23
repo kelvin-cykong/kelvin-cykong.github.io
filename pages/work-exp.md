@@ -4,9 +4,18 @@ title: "Work Experiences and Skills"
 last_modified_at: 2022-08-04
 toc: true
 ---
+## School of Veterinary Medicine, University of California Davis
+### Application Programmer
+*Nov 21 - Present | Davis, CA*
+- NLP Software Developer in Veterinary Medicine.
+- Focusing in free text medical record extraction and machine learning classifications.
+- Working on machine learning applications in animal diseases predictions using machine learning and Natural Language Processing (NLP) algoritms.
+
+
+
 ## Advantis Global Inc.
 ### Siri Language Curator (Hong Kong)
-*Sept 21 - Present | Remote*
+*Sept 21 - Nov 21 | Remote*
 - Contracted at Apple, Inc.
 - Working in Siri Cantonese Annotation Team, analyzing the raw language utterances and data in Cantonese and categorize user's intention.
 - By tokenize with lexicons and algoritms to improve the overall quality and responses of the virtual assistant.
