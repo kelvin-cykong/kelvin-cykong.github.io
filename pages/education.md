@@ -1,14 +1,12 @@
 ---
 permalink: /education/
 title: "My Education"
-last_modified_at: 2022-08-04
+last_modified_at: 2023-08-01
 toc: true
 ---
 
 ### California State University East Bay
 Master of Science in Statistics, Data Science Concentration
-
-Aug 2019 - May 2021
 
 - Graduated with GPA: 3.9
 - Python and R user
@@ -19,8 +17,6 @@ Aug 2019 - May 2021
 
 ### The Chinese University of Hong Kong
 Bachelor of Engineering in Electronic Engineering
-
-Sept 2016 - May 2019
 
 - Studied Analog and Digital Circuit Design
 - Modern Communication and Signal Processing

@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Kelvin's Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kelvin (Chun Yin) Kong"
-description              : "My project sharing site and profile."
+name                     : "Kelvin Kong"
+description              : "My Resume and Work Profile"
 url                      : "https://kelvin-cykong/github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Kelvin Kong"
   avatar           : "img/logo.png"
-  bio              : "Recent grad student majoring Statistics, Data Science. Currently working in a tech company."
-  location         : "San Francisco Bay Area, California"
+  bio              : "Application Developer @ School of Veterinary Medicine, UC Davis"
+  location         : "Davis, California"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
