@@ -27,6 +27,6 @@ A master graduate in Statistics with Data Science. Python and R user. Love to ex
 
 ### Languages that I use:
 
-- Cantonese: This is my first language.
-- English: Fluent
-- Mandarin Chinese: Fluent
+- Cantonese: Native
+- English: Fluent and Professional
+- Mandarin Chinese: Fluent and Professional
