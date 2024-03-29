@@ -10,11 +10,9 @@ Welcome to my personal website. My name is Kelvin. In this website you will find
 ### Background
 Currently Located in Davis, California.
 
-I am currently working in UC Davis School of Veterinary Medicine as a Software Developer in NLP in medical science. Current interest are machine learning applications in medical records.
+I am currently working in UC Davis School of Veterinary Medicine as a Application Developer. I develop unsupervised machine learning algorithm on Canine diseases detection. Current interest are machine learning applications in electronic medical records, both in blood test records and unstructured text records.
 
 A master graduate in Statistics with Data Science. Python and R user. Love to explore the world of Data Science in languages and speech data. I believe there are always hints hidden within data and we just need to use the proper tools to extract, refine, and tell the story and help us to make decision that fits most of the people.
-
-
 
 
 ### Hobbies
