@@ -6,16 +6,17 @@ toc: true
 ---
 ## School of Veterinary Medicine, University of California Davis
 ### Application Programmer
-*Nov 21 - Present | Davis, CA*
-- NLP Software Developer in Veterinary Medicine.
-- Focusing in free text medical record extraction and machine learning classifications.
+*Nov 22 - Present | Davis, CA*
+- Application Software Developer in School of Veterinary Medicine, UC Davis, with interests in free raw medical text records.
+- Develop, maintain, enhance machine learning prediction server for backend calculation, and animal health data analytics platform for time-series data visualization and machine learning prediction.
+- Focusing in free text medical record extraction, hematology, chemistry, microbiology blood test records and unsupervised machine learning classifications.
 - Working on machine learning applications in animal diseases predictions using machine learning and Natural Language Processing (NLP) algoritms.
-
+- Lead undergraduate research intern on individual research project on Equine medical record data. 
 
 
 ## Advantis Global Inc.
 ### Siri Language Curator (Hong Kong)
-*Sept 21 - Nov 21 | Remote*
+*Sept 21 - Nov 22 | Remote*
 - Contracted at Apple, Inc.
 - Working in Siri Cantonese Annotation Team, analyzing the raw language utterances and data in Cantonese and categorize user's intention.
 - By tokenize with lexicons and algoritms to improve the overall quality and responses of the virtual assistant.
