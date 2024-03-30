@@ -60,8 +60,7 @@ toc: true
 
 
 ## Skills
-#### Programming Languages and Packages:
-
+### Programming Languages and Packages:
 - R, including Shiny and FlexDashBoard, ggplot2, tidyverse, dplyr and more!
 - Python, scikit-learn, PyTorch and more!
 - OpenCV in image and modeling
@@ -71,11 +70,13 @@ toc: true
 - Tensorflow and Keras in R and Python
 - Neural Network Constructions
 
-#### Devices for work and code:
-- Macbook Air M1 2020 for light/remote work
-- PC with Ubuntu 20.04 for heavy computational tasks/involving GPU computation.
+### Devices for work and code:
+- 14 Inch M2 Pro Macbook Pro 2023 
+- Virtual Machines
+  - Ubuntu 20.04
+  - Windows 10 for Windows Application Developement.
 
-#### Other Tools:
+### Other Tools:
 - Markdown and LaTeX for Academic Writing and Presentation
 - MS Office
 - Google Docs/Sheet/Presentation
